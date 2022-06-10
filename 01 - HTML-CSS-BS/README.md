@@ -1,18 +1,15 @@
-# #**Meus "prototipos" de Sites**💻
-## Porque "prototipos"?
+# #**Meus Sites!!!**💻
+## O que são estas pastas?
 
-Essas paginas foram feitas enquanto estudava Web Designer
-Elas podem não terem tido os melhores desempenhos, ou a melhor execução.
+Em cada pasta esta um projeto que desempenhei utilizando linguagens WEB
+Cada uma tem uma ideia que fiz em diferentes épocas, alguns estão mais otimizados ou mais com mais recursos que outros!!
 
-É possivel encotrar as seguinter tecnologias
+É possivel encotrar as seguintes tecnologias:
 
 
 [HTML](#) - [CSS](#) - [BootStrap](#)
 
 > Todo dia a gente tem a chance de ser alguém diferente, de fazer algo novo, de mostrar para as pessoas aquilo que gostamos e de decidir como desejaremos ser lembrados.
 
-> Igor C. Achette
-.
+> Igor C. Achette.
 
-Para titulo de avaliação curricular, procure neste repositorio a pasta de Projetos. 
- 
